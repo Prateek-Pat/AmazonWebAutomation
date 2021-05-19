@@ -1,0 +1,18 @@
+
+Things required in Building Automation Framework
+
+1) Pom.xml > Add Dependencies 
+			1) Selenium 
+			2) TestNG
+			3) POI
+			
+
+Test_Case_1_Flow)
+++++++++++++++++++ 
+1) Go to amazon.in
+2) SingIn
+3) Search Product
+4) Select from Auto-complete 
+5) Select Product
+6) Add To Cart
+7) Click to Buy

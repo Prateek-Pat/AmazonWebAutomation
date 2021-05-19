@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="135280" started-at="2021-02-27T11:00:51Z" finished-at="2021-02-27T11:03:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="135280" started-at="2021-02-27T11:00:51Z" finished-at="2021-02-27T11:03:06Z">
+      <class name="com.amazon.test.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazon.test.LoginPageTest@4b9e13df]" name="setUp" is-config="true" duration-ms="15256" started-at="2021-02-27T16:32:45Z" finished-at="2021-02-27T16:33:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validate_Login_Test()[pri:3, instance:com.amazon.test.LoginPageTest@4b9e13df]" name="validate_Login_Test" duration-ms="4626" started-at="2021-02-27T16:33:01Z" finished-at="2021-02-27T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Login_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.test.LoginPageTest@4b9e13df]" name="tearDown" is-config="true" duration-ms="749" started-at="2021-02-27T16:33:05Z" finished-at="2021-02-27T16:33:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.test.LoginPageTest -->
+      <class name="com.amazon.test.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazon.test.HomePageTest@cb5822]" name="setUp" is-config="true" duration-ms="19610" started-at="2021-02-27T16:30:51Z" finished-at="2021-02-27T16:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validate_SearchProduct_Test()[pri:2, instance:com.amazon.test.HomePageTest@cb5822]" name="validate_SearchProduct_Test" duration-ms="95014" started-at="2021-02-27T16:31:10Z" finished-at="2021-02-27T16:32:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_SearchProduct_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.test.HomePageTest@cb5822]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-02-27T16:32:45Z" finished-at="2021-02-27T16:32:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.test.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
